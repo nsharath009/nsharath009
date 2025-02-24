@@ -28,3 +28,6 @@ I’m passionate about **web development, AI, and UI/UX design**, and I love bui
 
 
 ⚡ **Fun Fact:** I love crafting intuitive user experiences, solving real-world problems with code, and binge-watching anime!  
+
+![Tech Stack](logos.png)
+
