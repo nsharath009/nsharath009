@@ -22,8 +22,9 @@ I’m passionate about **web development, AI, and UI/UX design**, and I love bui
 - 🚀 **Tech & Innovation:** Always curious about new technologies  
 
 ### 🔗 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sharath-naganagoudar)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white)](your-portfolio)  
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](your-github)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharath-naganagoudar/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-site.com/)  
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username/)  
+
 
 ⚡ **Fun Fact:** I love crafting intuitive user experiences, solving real-world problems with code, and binge-watching anime!  
